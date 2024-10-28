@@ -1,1 +1,2 @@
-# Python-a-bit-Elementary-projects
+# Python-a-bit-Elementary-Projects
+These codes are for beginners!
